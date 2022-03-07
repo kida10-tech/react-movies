@@ -1,0 +1,152 @@
+[
+    {
+      "title": "Oblivion (2013)",
+      "rating": "7.0",
+      "director": "Joseph Kosinski",
+      "stars": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+      "release": "1 May 2013",
+      "runtime": "2h 04min",
+      "img": "images/uploads/mv1.jpg",
+      "plot": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself."
+    },
+    {
+      "title": "Into the wild (2007)",
+      "rating": "8.1",
+      "director": "Sean Penn",
+      "stars": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+      "release": "15 Apr 2007",
+      "runtime": "2h 28min",
+      "img": "images/uploads/mv2.jpg",
+      "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life."
+    },
+    {
+      "title": "Blade Runner (2017)",
+      "rating": "8.0",
+      "director": "Denis Villeneuve",
+      "stars": "Harrison Ford, Ryan Gosling, Ana de Armas",
+      "release": "1 Apr 2017",
+      "runtime": "2h 44min",
+      "img": "images/uploads/mv3.jpg",
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "rating": "7.9",
+      "director": "David Lynch",
+      "stars": "Naomi Watts, Laura Harring, Justin Theroux",
+      "release": "5 Sep 2001",
+      "runtime": "2h 27min",
+      "img": "images/uploads/mv4.jpg",
+      "plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality."
+    },
+    {
+      "title": "Skyfall: Evil of boss (2012)",
+      "rating": "7.8",
+      "director": "Sam Mendes",
+      "stars": "Daniel Craig, Javier Bardem, Naomie Harris",
+      "release": "10 Jan 2012",
+      "runtime": "2h 23min",
+      "img": "images/uploads/mv5.jpg",
+      "plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+    },
+    {
+      "title": "Oblivion (2013)",
+      "rating": "7.0",
+      "director": "Joseph Kosinski",
+      "stars": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+      "release": "1 May 2013",
+      "runtime": "2h 04min",
+      "img": "images/uploads/mv1.jpg",
+      "plot": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself."
+    },
+    {
+      "title": "Into the wild (2007)",
+      "rating": "8.1",
+      "director": "Sean Penn",
+      "stars": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+      "release": "15 Apr 2007",
+      "runtime": "2h 28min",
+      "img": "images/uploads/mv2.jpg",
+      "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life."
+    },
+    {
+      "title": "Blade Runner (2017)",
+      "rating": "8.0",
+      "director": "Denis Villeneuve",
+      "stars": "Harrison Ford, Ryan Gosling, Ana de Armas",
+      "release": "1 Apr 2017",
+      "runtime": "2h 44min",
+      "img": "images/uploads/mv3.jpg",
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "rating": "7.9",
+      "director": "David Lynch",
+      "stars": "Naomi Watts, Laura Harring, Justin Theroux",
+      "release": "5 Sep 2001",
+      "runtime": "2h 27min",
+      "img": "images/uploads/mv4.jpg",
+      "plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality."
+    },
+    {
+      "title": "Rommy: Evil of boss (2012)",
+      "rating": "7.8",
+      "director": "Sam Mendes",
+      "stars": "Daniel Craig, Javier Bardem, Naomie Harris",
+      "release": "10 Jan 2012",
+      "runtime": "2h 23min",
+      "img": "images/uploads/mv5.jpg",
+      "plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+    },
+    {
+      "title": "Oblivion (2013)",
+      "rating": "7.0",
+      "director": "Joseph Kosinski",
+      "stars": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+      "release": "1 May 2013",
+      "runtime": "2h 04min",
+      "img": "images/uploads/mv1.jpg",
+      "plot": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself."
+    },
+    {
+      "title": "Into the wild (2007)",
+      "ratin": "8.1",
+      "director": "Sean Penn",
+      "stars": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+      "release": "15 Apr 2007",
+      "runtime": "2h 28min",
+      "img": "images/uploads/mv2.jpg",
+      "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life."
+    },
+    {
+      "title": "Blade Runner (2017)",
+      "rating": "8.0",
+      "director": "Denis Villeneuve",
+      "stars": "Harrison Ford, Ryan Gosling, Ana de Armas",
+      "release": "1 Apr 2017",
+      "runtime": "2h 44min",
+      "img": "images/uploads/mv3.jpg",
+      "plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+    },
+    {
+      "title": "Mulholland Drive (2001)",
+      "rating": "7.9",
+      "director": "David Lynch",
+      "stars": "Naomi Watts, Laura Harring, Justin Theroux",
+      "release": "5 Sep 2001",
+      "runtime": "2h 27min",
+      "img": "images/uploads/mv4.jpg",
+      "plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality."
+    },
+    {
+      "title": "El que mira: Evil of boss (2012)",
+      "rating": "7.8",
+      "director": "Sam Mendes",
+      "stars": "Daniel Craig, Javier Bardem, Naomie Harris",
+      "release": "10 Jan 2012",
+      "runtime": "2h 23min",
+      "img": "images/uploads/mv5.jpg",
+      "plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+    }
+  ]
