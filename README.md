@@ -1,3 +1,8 @@
+#Movie Catalog made with React
+Whitin this project I used a template, changed it and applied React to give functionality. 
+I have applied pagination as well, and there's more section coming soon as the blog section and the tv shows section.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
