@@ -1,7 +1,8 @@
 # Movie Catalog made with React
-Whitin this project I used a template, changed it and applied React to give functionality. 
-I have applied pagination as well, and there's more section coming soon as the blog section and the tv shows section.
-
+Whitin this project I used a template, changed it and applied React to give functionality.\
+I have applied pagination as well, and there's more section coming soon as the blog section and the tv shows section.\
+\
+The movies list is shown from a Json file stored in https://jsonbin.io, so there's no database due that it's not the main purpose of this repo.
 
 # Getting Started with Create React App
 
