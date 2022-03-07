@@ -1,4 +1,4 @@
-#Movie Catalog made with React
+# Movie Catalog made with React
 Whitin this project I used a template, changed it and applied React to give functionality. 
 I have applied pagination as well, and there's more section coming soon as the blog section and the tv shows section.
 
